@@ -1,6 +1,7 @@
 from numpy import array, identity, diagonal
 from math import sqrt
 
+
 def maxElem(a): 
         n = len(a)
         aMax = 0.0
